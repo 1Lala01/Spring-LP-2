@@ -18,5 +18,7 @@ public class Alumno {
 	private int id_alumno;
 	private String nombre;
 	private String apellido;
+
+	private int edad;
 	
 }
