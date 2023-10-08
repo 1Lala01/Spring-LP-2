@@ -17,5 +17,6 @@ public class Alumno {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id_alumno;
 	private String nombre;
+	private String apellido;
 	
 }
