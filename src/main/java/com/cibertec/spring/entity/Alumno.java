@@ -20,8 +20,7 @@ public class Alumno {
 	private String apellido;
 	private String direccion;
 	private int edad;
-	
-	
-	
+	private String pais;
 	private String apodo;
+
 }
