@@ -19,4 +19,9 @@ public class Alumno {
 	private String nombre;
 	private String apellido;
 	private String direccion;
+	private int edad;
+	
+	
+	
+	private String apodo;
 }
